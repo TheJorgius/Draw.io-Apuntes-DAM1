@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Página-1" id="xWP41isth5iNb348gQy3">
+    <mxGraphModel dx="1895" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JMqQT2oSAqgzdxuLknI--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JMqQT2oSAqgzdxuLknI--1" target="JMqQT2oSAqgzdxuLknI--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JMqQT2oSAqgzdxuLknI--1" value="Por favor ponga su nombre" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="314" y="420" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JMqQT2oSAqgzdxuLknI--4" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;Nombre&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="329" y="555" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JMqQT2oSAqgzdxuLknI--5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JMqQT2oSAqgzdxuLknI--6" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JMqQT2oSAqgzdxuLknI--7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="700" y="160" width="88" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JMqQT2oSAqgzdxuLknI--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JMqQT2oSAqgzdxuLknI--9" target="JMqQT2oSAqgzdxuLknI--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JMqQT2oSAqgzdxuLknI--9" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JMqQT2oSAqgzdxuLknI--10" value="FIN" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360.5" y="1020" width="99" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="JMqQT2oSAqgzdxuLknI--18" value="&quot;Hola&quot;, &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;Nombre&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="364" y="670" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JMqQT2oSAqgzdxuLknI--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JMqQT2oSAqgzdxuLknI--4" target="JMqQT2oSAqgzdxuLknI--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
