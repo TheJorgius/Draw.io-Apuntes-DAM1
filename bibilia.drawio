@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Página-1" id="X9rScbllSVP-6Kd1ymt7">
+    <mxGraphModel dx="1603" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZEfeASmz-3BbbVykTwGQ-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEfeASmz-3BbbVykTwGQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZEfeASmz-3BbbVykTwGQ-2" target="ZEfeASmz-3BbbVykTwGQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEfeASmz-3BbbVykTwGQ-2" value="1er parrafo de la biblia" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+          <mxGeometry x="364" y="120" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEfeASmz-3BbbVykTwGQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZEfeASmz-3BbbVykTwGQ-5" target="ZEfeASmz-3BbbVykTwGQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEfeASmz-3BbbVykTwGQ-5" value="Voy a leer la primera pagina" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="269" y="220" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEfeASmz-3BbbVykTwGQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZEfeASmz-3BbbVykTwGQ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEfeASmz-3BbbVykTwGQ-6" value="Si pagina==parrafo" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="166" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEfeASmz-3BbbVykTwGQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.114;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZEfeASmz-3BbbVykTwGQ-1" target="ZEfeASmz-3BbbVykTwGQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEfeASmz-3BbbVykTwGQ-10" value="1er parrafo de la biblia" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+          <mxGeometry x="320.5" y="460" width="187" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEfeASmz-3BbbVykTwGQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.496;entryY=0.102;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZEfeASmz-3BbbVykTwGQ-6" target="ZEfeASmz-3BbbVykTwGQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEfeASmz-3BbbVykTwGQ-12" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZEfeASmz-3BbbVykTwGQ-11">
+          <mxGeometry x="-0.4971" y="4" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEfeASmz-3BbbVykTwGQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZEfeASmz-3BbbVykTwGQ-14" target="ZEfeASmz-3BbbVykTwGQ-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEfeASmz-3BbbVykTwGQ-14" value="No queria esa pagina" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+          <mxGeometry x="20" y="338" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEfeASmz-3BbbVykTwGQ-15" value="Fin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="610" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEfeASmz-3BbbVykTwGQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZEfeASmz-3BbbVykTwGQ-10" target="ZEfeASmz-3BbbVykTwGQ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
